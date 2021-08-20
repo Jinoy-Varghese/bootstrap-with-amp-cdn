@@ -12,8 +12,7 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 ![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
-
-![License](https://img.shields.io/github/license/JinoyVarghese/vscode-bcdn?style=for-the-badge&logo=github)
+![License](https://img.shields.io/github/license/Jinoy-Varghese/bootstrap-with-amp-cdn?style=for-the-badge&logo=github)
 ![Maintenance](https://img.shields.io/maintenance/yes/2021?style=for-the-badge&logo=github)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/JinoyVarghese/vscode-bcdn/issues)
 
