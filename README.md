@@ -1,7 +1,5 @@
-# Bootstrap 4 with CDN Boilerplate
+# Bootstrap 4 with CDN 
 
-<!-- markdownlint-disable MD037 MD024 
--->
 
 Ever been trying to start with a bootstrap template?
 
@@ -16,8 +14,8 @@ This extension will solve the issue for you with a simple `!bcdn` + `TAB` and yo
 ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
 
 ![License](https://img.shields.io/github/license/JinoyVarghese/vscode-bcdn?style=for-the-badge&logo=github)
-![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge&logo=github)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Eventyret/vscode-bcdn/issues)
+![Maintenance](https://img.shields.io/maintenance/yes/2021?style=for-the-badge&logo=github)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/JinoyVarghese/vscode-bcdn/issues)
 
 ![Gif](https://i.imgur.com/6RmNOwu.gif)
 
