@@ -9,14 +9,13 @@ This is normally not an issue but I found it tedious with using `!` then add all
 
 This extension will solve the issue for you with a simple `!bcdn` + `TAB` and your up and running with a full template
 
-The extension also supports [Bootswatch](https://bootswatch.com/) themes
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/eventyret.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/JinoyVarghese.bootstrap-4-cdn-snippet?style=for-the-badge&logo=visual-studio-code)
 
-![License](https://img.shields.io/github/license/Eventyret/vscode-bcdn?style=for-the-badge&logo=github)
+![License](https://img.shields.io/github/license/JinoyVarghese/vscode-bcdn?style=for-the-badge&logo=github)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge&logo=github)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Eventyret/vscode-bcdn/issues)
 
