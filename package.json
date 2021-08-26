@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-4-cdn-snippet",
-  "displayName": "Bootstrap 4 CDN Snippet",
+  "name": "bootstrap-5-cdn-snippet",
+  "displayName": "Bootstrap 5 CDN Snippet with AMP Page",
   "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "publisher": "JinoyVarghese",
   "homepage": "https://github.com/Jinoy-Varghese/bootstrap-with-amp-cdn/blob/master/README.md",
   "license": "SEE LICENSE IN LICENSE.md",
