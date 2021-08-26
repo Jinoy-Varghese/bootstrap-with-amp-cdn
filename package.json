@@ -4,15 +4,15 @@
   "description": "This will get you up and running to get a boilerplate of bootstrap ready in a sec",
   "version": "2.0.0",
   "publisher": "JinoyVarghese",
-  "homepage": "https://github.com/Eventyret/vscode-bcdn/blob/master/README.md",
+  "homepage": "https://github.com/Jinoy-Varghese/bootstrap-with-amp-cdn/blob/master/README.md",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
-    "url": "https://github.com/Eventyret/vscode-bcdn/issues",
-    "email": "simen.dehlin@gmail.com"
+    "url": "https://github.com/Jinoy-Varghese/bootstrap-with-amp-cdn/issues",
+    "email": "jinoy.v2000@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eventyret/vscode-bcdn"
+    "url": "https://github.com/Jinoy-Varghese/bootstrap-with-amp-cdn"
   },
   "engines": {
     "vscode": "^1.20.0"
